@@ -9,4 +9,4 @@ Run the Program in Console of Matlab as:
 
 
 Check the Expected Screenshot of Program
-![Here] (https://drive.google.com/file/d/0B0MLeSra6pfDUnpvS0V0SWxrRHc/edit?usp=sharing)
+![Here] (https://raw.githubusercontent.com/mesarvagya/image-processing/master/screenshot/Image%20Processing%20Screenshot.PNG)
